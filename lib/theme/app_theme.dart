@@ -32,7 +32,7 @@ class DumpMateTheme {
     return ThemeData(
       useMaterial3: true,
       scaffoldBackgroundColor: background,
-      fontFamily: 'Inter',
+      // fontFamily: 'Inter', // Uncomment when Inter fonts are added to assets/fonts/
       colorScheme: ColorScheme.light(
         primary: primaryBlack,
         secondary: accentLime,

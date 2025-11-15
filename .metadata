@@ -1,0 +1,18 @@
+# This file tracks properties of this Flutter project.
+project_type: app
+
+version:
+  revision: stable
+  channel: stable
+
+migration:
+  platforms:
+    - platform: root
+      create_revision: stable
+      base_revision: stable
+    - platform: android
+      create_revision: stable
+      base_revision: stable
+    - platform: ios
+      create_revision: stable
+      base_revision: stable

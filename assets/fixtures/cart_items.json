@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cart_001",
+    "dumpId": "dump_003",
+    "productName": "MacBook Air 13\" M3 Chip",
+    "price": "₹1,12,499",
+    "merchant": "Flipkart",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "addedAt": "2025-01-09T17:00:00Z"
+  },
+  {
+    "id": "cart_002",
+    "dumpId": "dump_006",
+    "productName": "Sony WH-1000XM5",
+    "price": "₹29,990",
+    "merchant": "Amazon",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1546435770-a3e426bf472b",
+    "addedAt": "2025-01-08T14:00:00Z"
+  },
+  {
+    "id": "cart_003",
+    "dumpId": "dump_010",
+    "productName": "iPhone 15 Pro Max 256GB",
+    "price": "₹1,34,900",
+    "merchant": "Amazon",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1592286927505-b0e2bc1d9b8d",
+    "addedAt": "2025-01-06T16:30:00Z"
+  },
+  {
+    "id": "cart_004",
+    "dumpId": "dump_016",
+    "productName": "Nintendo Switch OLED",
+    "price": "₹32,999",
+    "merchant": "Gamestheshop",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e",
+    "addedAt": "2025-01-03T12:00:00Z"
+  },
+  {
+    "id": "cart_005",
+    "dumpId": "dump_019",
+    "productName": "Apple AirPods Pro (2nd Gen)",
+    "price": "₹22,900",
+    "merchant": "Flipkart",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7",
+    "addedAt": "2025-01-01T18:30:00Z"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "reminder_001",
+    "title": "Call Rohan about Project",
+    "dumpId": "dump_012",
+    "fireAt": "2025-01-11T15:00:00Z",
+    "recurrence": "none",
+    "priority": "high",
+    "isCompleted": false,
+    "isMissed": false,
+    "snoozeCount": 0
+  },
+  {
+    "id": "reminder_002",
+    "title": "Watch Demon Slayer S4",
+    "dumpId": "dump_002",
+    "fireAt": "2025-01-11T21:00:00Z",
+    "recurrence": "none",
+    "priority": "medium",
+    "isCompleted": false,
+    "isMissed": false,
+    "snoozeCount": 1
+  },
+  {
+    "id": "reminder_003",
+    "title": "Check One Piece new episode",
+    "dumpId": "dump_005",
+    "fireAt": "2025-01-14T09:00:00Z",
+    "recurrence": "weekly",
+    "priority": "medium",
+    "isCompleted": false,
+    "isMissed": false,
+    "snoozeCount": 0
+  },
+  {
+    "id": "reminder_004",
+    "title": "Review Docker Compose notes",
+    "dumpId": "dump_008",
+    "fireAt": "2025-01-09T10:00:00Z",
+    "recurrence": "none",
+    "priority": "low",
+    "isCompleted": true,
+    "isMissed": false,
+    "snoozeCount": 0
+  },
+  {
+    "id": "reminder_005",
+    "title": "Buy MacBook - Deal ends soon",
+    "dumpId": "dump_003",
+    "fireAt": "2025-01-08T12:00:00Z",
+    "recurrence": "none",
+    "priority": "high",
+    "isCompleted": false,
+    "isMissed": true,
+    "snoozeCount": 0
+  },
+  {
+    "id": "reminder_006",
+    "title": "Watch Jujutsu Kaisen S3 announcement",
+    "dumpId": "dump_018",
+    "fireAt": "2025-01-15T20:00:00Z",
+    "recurrence": "none",
+    "priority": "medium",
+    "isCompleted": false,
+    "isMissed": false,
+    "snoozeCount": 0
+  }
+]
